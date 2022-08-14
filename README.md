@@ -1,5 +1,5 @@
 # CLI-application
-"LiST and GET commands
+LiST and GET commands
 !["LiST and GET commands"](https://github.com/Dmytrii-Shypilov/CLI-application/blob/main/img/list_&_get_commands.png?raw=true)
 
 ADD command
